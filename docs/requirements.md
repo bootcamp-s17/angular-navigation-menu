@@ -13,4 +13,4 @@ is highlighted.
 
 ## Stretch Goals
 
-1. Restyle this example using 
+1. Restyle this example using Bootstrap
