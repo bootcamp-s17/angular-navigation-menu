@@ -11,3 +11,6 @@ each item is clicked.
 4. Change the page content to indicate that a new menu item
 is highlighted.
 
+## Stretch Goals
+
+1. Restyle this example using Bootstrap.
